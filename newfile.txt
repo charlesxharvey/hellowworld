@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 848D-DAC1
+
+ Directory of c:\Users\CHARV1\Documents\Java\Projects\HelloWorld
+
+01/04/2017  03:29 PM    <DIR>          .
+01/04/2017  03:29 PM    <DIR>          ..
+01/04/2017  03:27 PM               677 Hello.class
+01/04/2017  03:12 PM               160 Hello.java
+01/04/2017  03:29 PM                 0 newfile.txt
+01/04/2017  03:16 PM               474 readme.txt
+               4 File(s)          1,311 bytes
+               2 Dir(s)  75,039,846,400 bytes free
